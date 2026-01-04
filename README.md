@@ -85,19 +85,11 @@ Police Stop Summary Generator
 
 This feature accepts structured police stop details and generates a clear, human-readable summary describing what happened during the stop.
 
-🔹 Inputs
- - Stop time
- - Driver age
- - Driver gender
- - Driver race
- - Violation
- - Search conducted
- - Search type
- - Stop outcome
- - Stop duration
- - Drug-related stop indicator
+- Dataset-driven summary using Vehicle Number
 
-🔹 Output (Auto-Generated Summary)
+- Realistic narrative output
+
+- Optional record preview
 
 Example:
 
