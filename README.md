@@ -39,6 +39,16 @@ Police_Ledger/
 
 ## ▶️ How to Run the Project
 
+## Clone the repository
+
+git clone https://github.com/<your-username>/<repo-name>.git
+cd <repo-name>
+
+## Create virtual environment (recommended)
+
+Create virtual environment (recommended)
+
+
 ### 1️⃣ Install Python requirements from the associated file
 
 pip install -r requirements.txt
