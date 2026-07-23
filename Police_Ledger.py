@@ -94,7 +94,7 @@ cursor = conn.cursor()
 # PYTHON FILE TO DISPLAY STREAMLIT IN BROWSER WITH BAR CHART
 # -------------------------------------------------
 
-import matplotlib.pyplot as plt # For pie charts (Streamlit alone can’t do pie)
+import matplotlib.pyplot as plt # For pie charts 
 
 
 # -------------------------------------------------
